@@ -34,5 +34,49 @@ Those who offer trading pairs in the TokSwap pool will also share a 0.3% commiss
 
 You can find your pool information in [info.tokswap.net](https://info.tokswap.net), at the bottom of the page you can see the contract address of the pool, it is the contract address of your LP Token, when you add a custom token in your wallet, you can paste this address to import it to your wallet..
 
+### How to add your token to TokSwap
+
+Here's our Token List.
+https://tokswap.net/tokswap_tokenlist.json
+
+There are two ways to add your token to TokSwap.
+
+1. Submit an issue to this repository and provide your token's description information, you can see the format in the above tokenlist. 
+
+2. Configure your token information in Cryptoname. This is done as follows.
+
+Create an extended key called "elatoken" in Cryptoname, and convert your token from json to string, fill in the "value" field, and submit it. Then you can enter your Crytptoname in TokSwap and you're ready to go.
+
+##### Raw Token Info
+```
+{
+    "chainId": 20,
+    "address": "0x677d40ccc1c1fc3176e21844a6c041dbd106e6cd",
+    "name": "Elaphant",
+    "symbol": "ELP",
+    "decimals": 8,
+    "logoURI": "https://elaphant.app/favicon-32x32.png"
+}
+```
+
+##### Online Conversion Tool
+https://tools.knowledgewalls.com/jsontostring
+
+##### After conversion
+```
+"{\"chainId\":20,\"address\":\"0x677d40ccc1c1fc3176e21844a6c041dbd106e6cd\",\"name\":\"Elaphant\",\"symbol\":\"ELP\",\"decimals\": 8,\"logoURI\":\"https:\/\/elaphant.app\/favicon-32x32.png\"}"
+```
+
+##### Examples of "Elaphant"
+https://elaphant.elastos.name/elatoken
+
+
+
+
+
+
+
+
+
 
 
