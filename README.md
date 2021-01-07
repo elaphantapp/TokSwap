@@ -10,13 +10,24 @@ Since this project is cloned from the Uniswap V2 code, you can read about it on 
 
 Uniswap Doc: https://uniswap.org/docs/v2/
 
-##### Contracts
+##### Contracts-ELA Mainnet
 
-UniswapV2 Factory ： [0xFc09C4A466A4FBa6bE80009cee63E24C2F168371](https://escscan.elaphant.app/address/0xfc09c4a466a4fba6be80009cee63e24c2f168371/transactions)
+- UniswapV2 Factory ： [0xFc09C4A466A4FBa6bE80009cee63E24C2F168371](https://escscan.elaphant.app/address/0xfc09c4a466a4fba6be80009cee63e24c2f168371/transactions)
+- wELA ：[0x517E9e5d46C1EA8aB6f78677d6114Ef47F71f6c4](https://escscan.elaphant.app/address/0x517E9e5d46C1EA8aB6f78677d6114Ef47F71f6c4/transactions)
+- Uniswap V2 Router ：[0x1FF9598aBCBbC2F3A9B15261403459215b352e2b](https://escscan.elaphant.app/address/0x1FF9598aBCBbC2F3A9B15261403459215b352e2b/transactions)
 
-wELA ：[0x517E9e5d46C1EA8aB6f78677d6114Ef47F71f6c4](https://escscan.elaphant.app/address/0x517E9e5d46C1EA8aB6f78677d6114Ef47F71f6c4/transactions)
+#### Contracts-Heco Testnet
 
-Uniswap V2 Router ：[0x1FF9598aBCBbC2F3A9B15261403459215b352e2b](https://escscan.elaphant.app/address/0x1FF9598aBCBbC2F3A9B15261403459215b352e2b/transactions)
+- UniswapV2Factory: 0x52354Bd079373fB96fCA3CFE3cD5a0319bB3c169
+- HashCode: 0x77d35d84db83d346d845a23b35a87b92e27c84e765e40c1ea3baaf83c1c6ad3d
+- wHT: 0x45b2165cc04673bb711605c43a7d1279ff838477
+- UniswapV2Router02: 0xf545102a8daa89a79ba8586e2ee278b82c48ae86
+
+#### Contracts-Heco Mainnet
+- UniswapV2Factory: 0xEcC694Bf665E1ba7fb1546ae40b8FaD6f3462B28
+- HashCode: 0x77d35d84db83d346d845a23b35a87b92e27c84e765e40c1ea3baaf83c1c6ad3d
+- wHT: 0x45b2165cc04673bb711605c43a7d1279ff838477
+- UniswapV2Router02: 0x64967f9889a14a710c4f6d21f3a2155035310048
 
 ### Roles
 
