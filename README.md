@@ -31,7 +31,7 @@ Uniswap Doc: https://uniswap.org/docs/v2/
 - wHT: 0x45b2165cc04673bb711605c43a7d1279ff838477
 - UniswapV2Router02: 0x64967f9889a14a710c4f6d21f3a2155035310048
 
-### Roles
+## Roles
 
 It has two roles: Trader and Market maker.
 
@@ -43,11 +43,11 @@ You can trade Tokens in TokSwap and anyone who engages in buying or selling can 
 
 Those who offer trading pairs in the TokSwap pool will also share a 0.3% commission on the amount traded. Market makers who provide liquidity will receive LP Token as proof.
 
-### How to add LP token to your wallet
+## How to add LP token to your wallet
 
 You can find your pool information in [info.tokswap.net](https://info.tokswap.net), at the bottom of the page you can see the contract address of the pool, it is the contract address of your LP Token, when you add a custom token in your wallet, you can paste this address to import it to your wallet..
 
-### How to add your token to TokSwap
+## How to add your token to TokSwap
 
 Here's our Token List.
 https://tokswap.net/tokswap_tokenlist.json
